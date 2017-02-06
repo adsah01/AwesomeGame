@@ -1,0 +1,4 @@
+# Game ideas
+
+## Type
+* Platformer
